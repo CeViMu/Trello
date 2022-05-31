@@ -16,7 +16,7 @@ A continuación se presentan los resultados de la exploración de los puntos ant
 
 ## Crear un nuevo board
 1) La petición que usaremos en Postman es POST Create board:
-imagen
+![image](https://github.com/CeViMu/Trello/blob/main/images/CreateBoard.png)
 2) En Postman hay una sección de params que se tiene que llenar con la información del api key en el campo key y el token en Token.
 imagen
 3) Damos click en Send
