@@ -15,7 +15,7 @@ Actividad de la semana 4 de Launch X
 A continuación se presentan los resultados de la exploración de los puntos anteriores.
 
 ## Crear un nuevo board
-1) La petición que usaremos en Postman es POST Create board:
+1) La petición que usaremos en Postman es POST Create board:  
 ![image](https://github.com/CeViMu/Trello/blob/main/images/CreateBoard.png)
 2) En Postman hay una sección de params que se tiene que llenar con la información del api key en el campo key y el token en Token.
 imagen
