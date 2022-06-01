@@ -28,10 +28,9 @@ A continuación se presentan los resultados de la exploración de los puntos ant
 ## Obtener la información de un board a partir de su ID
 1) La petición que usaremos ahora es:
 ![image](https://github.com/CeViMu/Trello/blob/main/images/getList.png)
-2) En la sección de Postman de params agregamos el API KEY y TOKEN.
-![image](https://github.com/CeViMu/Trello/blob/main/images/InfoID.png)
-3) Tenemos que modificar la url que aparece en Postman, después de /1/boards/ quitamos el valor que esta ahí y ponemos el ID del board creado en la sección anterior.
-![image](https://github.com/CeViMu/Trello/blob/main/images/ChangeUrl.png)
-4) Damos click en Send
-5)  
+2) En la sección de Postman de params agregamos el API KEY y TOKEN, además tenemos que modificar la url que aparece en Postman, después de /1/boards/ quitamos el valor que esta ahí y ponemos el ID del board creado en la sección anterior.
+![image](https://github.com/CeViMu/Trello/blob/main/images/GetListIm.png)
+3) Damos click en Send
+4) Verificamos que la información recibida corresponda a la lista de columnas que aparecen en el tablero.
+![image](https://github.com/CeViMu/Trello/blob/main/images/ListCol.png)
 
