@@ -33,4 +33,5 @@ A continuación se presentan los resultados de la exploración de los puntos ant
 3) Damos click en Send
 4) Verificamos que la información recibida corresponda a la lista de columnas que aparecen en el tablero.
 ![image](https://github.com/CeViMu/Trello/blob/main/images/ListCol.png)
+5) De esta parte tomamos el primer ID que usaremos en la seguiente sección.
 
