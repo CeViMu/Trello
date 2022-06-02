@@ -25,7 +25,7 @@ A continuación se presentan los resultados de la exploración de los puntos ant
 5) En el response que se obtiene en Postman, hay un campo id que corresponde al ID del tablero que se creó, este ID debe ser guardado.  
 ![image](https://github.com/CeViMu/Trello/blob/main/images/id.png)
 
-## Obtener la información de un board a partir de su ID
+## Obtener la lista de cards de un board
 1) La petición que usaremos ahora es:
 ![image](https://github.com/CeViMu/Trello/blob/main/images/getList.png)
 2) En la sección de Postman de params agregamos el API KEY y TOKEN, además tenemos que modificar la url que aparece en Postman, después de /1/boards/ quitamos el valor que esta ahí y ponemos el ID del board creado en la sección anterior.
@@ -43,3 +43,4 @@ A continuación se presentan los resultados de la exploración de los puntos ant
 3) Damos click en Send
 4) Verificamos que se haya creado una nueva card en Trello
 ![image](https://github.com/CeViMu/Trello/blob/main/images/newcard.png)
+
