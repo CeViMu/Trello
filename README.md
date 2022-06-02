@@ -35,3 +35,11 @@ A continuación se presentan los resultados de la exploración de los puntos ant
 ![image](https://github.com/CeViMu/Trello/blob/main/images/ListCol.png)
 5) De esta parte tomamos el primer ID que usaremos en la seguiente sección.
 
+## Cómo crear una nueva card en un board
+1) La petición a usar : 
+![image](https://github.com/CeViMu/Trello/blob/main/images/CreateCard.png)
+2) Los parámetros que se necesitan para esta petición son el Token, name (que es el nombre que le daremos a la card nueva) y el ID que guardamos en la sección anterior.
+![image](https://github.com/CeViMu/Trello/blob/main/images/CardByID.png)
+3) Damos click en Send
+4) Verificamos que se haya creado una nueva card en Trello
+![image](https://github.com/CeViMu/Trello/blob/main/images/newcard.png)
